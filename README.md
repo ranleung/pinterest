@@ -1,5 +1,5 @@
-#One Month Rails
+#Pinteresting
 
-This is the pinteresing sample application!
+This is my Pinterest sample application!
 
 by Randall Leung
